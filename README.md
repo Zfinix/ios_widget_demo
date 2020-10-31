@@ -10,5 +10,7 @@ This project demostrates Flutter being used with iOS 14 widgets
 
 ## Screen Shots
 
-![''](https://github.com/Zfinix/ios_widget_demo/blob/master/1.png?raw=true)
-![''](https://github.com/Zfinix/ios_widget_demo/blob/master/2.png?raw=true)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Zfinix/ios_widget_demo/master/1.png" width="250" />
+  <img src="https://raw.githubusercontent.com/Zfinix/ios_widget_demo/master/2.jpeg" width="250" />
+</p>
